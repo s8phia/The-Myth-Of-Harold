@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Poof
+comment0.text=\r\n\ Poof\ class\ represents\ an\ animation\ effect\ displayed\ when\ an\ enemy\ is\ defeated.\r\n\ It\ extends\ the\ Effect\ class\ and\ includes\ an\ animation\ of\ fading\ away.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=
+comment1.target=Poof()
+comment1.text=\r\n\ Creates\ a\ new\ instance\ for\ a\ poof\ effect.\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animateDeath()
+numComments=4

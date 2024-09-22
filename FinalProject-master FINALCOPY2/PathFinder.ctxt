@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PathFinder
+comment0.text=\r\n\ Pathfinder.\ \r\n\ \r\n\ Credits\:\ <br>\r\n\ \ \ \ \ -\ Pathfinding\ logic\:\ https\://en.wikipedia.org/wiki/A*_search_algorithm\#\r\n\ \r\n\ @author\ Jessica\ Biro\r\n\ @version\ January\ 2024\r\n
+comment1.params=map
+comment1.target=PathFinder(int[][])
+comment1.text=\r\n\ Constructor\ for\ a\ pathfinding\ given\ a\ specific\ map.\r\n\ @param\ map\ \ \ The\ map\ base\ for\ the\ pathfinder.\ \r\n
+comment2.params=i\ j
+comment2.target=Node\ getNode(int,\ int)
+comment2.text=\r\n\ Returns\ the\ node\ with\ the\ locations\ at\ i\ and\ j\ on\ the\ map.\r\n\ @return\ Node\ \ The\ node\ in\ the\ map.\r\n\ @param\ i\ \ \ \ \ \ The\ integer\ location\ on\ the\ map\r\n\ @param\ j\ \ \ \ \ \ The\ integer\ location\ on\ the\ map\ \r\n
+comment3.params=x\ y
+comment3.target=Node\ getNodeAtPosition(int,\ int)
+comment3.text=\r\n\ Gets\ the\ node\ at\ the\ inputed\ x\ and\ y\ coordinates\ on\ the\ map.\r\n\ @param\ x\ \ \ \ \ \ \ \ \ The\ y\ coordinate\ of\ the\ node.\ \r\n\ @param\ y\ \ \ \ \ \ \ \ \ The\ x\ coordinate\ of\ the\ node.\ \r\n\ @return\ Node\ \ \ \ \ The\ node\ at\ the\ given\ position.\r\n
+comment4.params=
+comment4.target=int[][]\ getUpdatedMap()
+comment4.text=\r\n\ Returns\ the\ updates\ map.\r\n\ \r\n\ @return\ int[][]\ \ The\ updated\ map\ of\ the\ pathfinder.\ \r\n
+comment5.params=map\ startX\ startY\ endX\ endY
+comment5.target=java.util.List\ calculatePath(int[][],\ int,\ int,\ int,\ int)
+comment5.text=\r\n\ Calculates\ the\ path\ between\ nodes\ from\ the\ starting\ x\ and\ y\ to\ the\ ending\ x\ and\ y\ in\ the\ map.\ \r\n\ @param\ map\ \ \ \ \ \ \ The\ map\ of\ nodes\r\n\ @param\ startX\ \ \ \ The\ starting\ x\ coordinate\ in\ the\ map\ \r\n\ @param\ startY\ \ \ \ The\ starting\ y\ coordinate\ in\ the\ map\ \r\n\ @param\ endX\ \ \ \ \ \ The\ ending\ x\ coordinate\ in\ the\ map\ \r\n\ @param\ endY\ \ \ \ \ \ The\ ending\ y\ coordinate\ in\ the\ map\ \r\n
+comment6.params=x1\ y1\ x2\ y2
+comment6.target=int\ heuristic(int,\ int,\ int,\ int)
+numComments=7

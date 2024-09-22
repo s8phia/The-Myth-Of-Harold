@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WeaponBasic
+comment0.text=\r\n\ A\ basic\ weapon\ class\ to\ display\ the\ weapons\ in\ the\ loading\ screen.\ \r\n\ \r\n\ @author\ Jessica\ Biro\r\n\ @version\ January\ 2024\r\n
+comment1.params=type
+comment1.target=WeaponBasic(int)
+comment2.params=
+comment2.target=int\ getType()
+comment2.text=\r\n\ Getter\ method\ to\ get\ the\ current\ type\ of\ the\ basic\ weapon.\r\n\ @return\ int\ The\ type\ of\ weapon.\ \r\n
+numComments=3

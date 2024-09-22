@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Rockball
+comment0.text=\r\n\ Rockball\ class\ represents\ a\ projectile\ launched\ by\ the\ MiniBoss\ enemy.\r\n\ It\ extends\ the\ Attack\ class\ and\ includes\ animations\ for\ its\ movement.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=
+comment1.target=Rockball()
+comment2.params=
+comment2.target=void\ animateRockball()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Move\ towards\ the\ player\ and\ check\ out\ of\ bounds.\ \r\n
+comment4.params=
+comment4.target=void\ moveTowardsPlayer()
+comment5.params=
+comment5.target=void\ checkOutOfBounds()
+numComments=6

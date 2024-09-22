@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HeartPotion
+comment0.text=\r\n\ HeartPotion\ class\ represents\ a\ health\ potion\ in\ the\ game\ which\ can\ spawn\ when\ enemies\ die.\r\n\ It\ extends\ the\ Asset\ class\ and\ includes\ functionality\ for\ player\ interaction\ to\ increase\ health.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=
+comment1.target=HeartPotion()
+comment1.text=\r\n\ Creates\ a\ new\ instance\ of\ a\ heart\ potion\ that\ can\ be\ picked\ up\ by\ the\ player.\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Check\ for\ player\ interactions.\ \r\n
+numComments=3

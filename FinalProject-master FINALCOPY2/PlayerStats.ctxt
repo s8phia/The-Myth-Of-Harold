@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PlayerStats
+comment0.text=\r\n\ The\ players\ current\ statbar.\ \r\n\ \r\n\ @author\ Hilary\ Ho\r\n\ @version\ January\ 2024\r\n
+comment1.params=type
+comment1.target=PlayerStats(int)
+comment1.text=\r\n\ Creates\ a\ new\ image\ of\ a\ statbar\ using\ the\ hero\ type.\ \r\n\ \r\n\ @param\ type\ \ \ \ \ \ The\ type\ of\ hero\ to\ put\ on\ the\ statbar\r\n
+numComments=2

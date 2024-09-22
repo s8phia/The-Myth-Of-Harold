@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ShopIcon
+comment0.text=\r\n\ ShopIcon\ class\ represents\ an\ icon\ displayed\ in\ the\ shop\ for\ selecting\ different\ weapons\ or\ items.\r\n\ It\ extends\ the\ Effect\ class\ and\ includes\ functionality\ for\ handling\ mouse\ hover\ events.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=weaponType
+comment1.target=ShopIcon(int)
+comment1.text=\r\n\ Constructs\ a\ ShopIcon\ object\ based\ on\ the\ specified\ weapon\ type.\r\n\ \r\n\ @param\ weaponType\ The\ type\ of\ weapon\ or\ item\ for\ the\ shop\ icon.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Checks\ if\ the\ users\ mouse\ if\ hovering\ over\ the\ icon\ \r\n\ to\ display\ the\ stats.\ \r\n
+comment3.params=
+comment3.target=void\ iconHover()
+numComments=4

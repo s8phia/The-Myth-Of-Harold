@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=HpBar
+comment0.text=\r\n\ The\ stats\ bar\ for\ the\ player\ and\ the\ boss.\ Displays\ the\ current\ world\ level,\ coins\ and\ hp\ for\ the\ player.\ \r\n\ For\ the\ boss\ displays\ only\ the\ current\ hp.\ \r\n\ \r\n\ @author\ Jessica\ Biro\ \r\n\ @version\ January\ 2024\r\n
+comment1.params=player
+comment1.target=HpBar(Player)
+comment1.text=\r\n\ Creates\ a\ new\ HpBar\ for\ the\ player\ using\ the\ player's\ current\ hp.\ \r\n\ @param\ player\ \ \ \ The\ player\ that\ the\ HpBar\ is\ attached\ to.\ \r\n
+comment2.params=boss
+comment2.target=HpBar(Boss)
+comment2.text=\r\n\ Creates\ a\ new\ HpBar\ for\ the\ boss\ using\ the\ boss's\ current\ hp.\ \r\n\ @param\ boss\ \ \ \ The\ boss\ that\ the\ HpBar\ is\ attached\ to.\ \r\n
+comment3.params=
+comment3.target=void\ addedToWorld()
+comment3.text=\r\n\ Once\ added\ to\ world,\ add\ a\ superstatbar\ to\ the\ hpBar\ and\ update\ the\ current\ hp.\ \r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Update\ the\ stat\ bar\ based\ on\ whether\ or\ not\ it\ is\ the\ boss.\ \r\n
+comment5.params=
+comment5.target=void\ updateBoss()
+comment5.text=\r\n\ Update\ the\ boss'\ current\ HP\ from\ the\ boss\ in\ the\ world.\ \r\n
+comment6.params=
+comment6.target=void\ updatePlayer()
+comment6.text=\r\n\ Update\ the\ boss'\ current\ HP\ from\ the\ boss\ in\ the\ world.\ \r\n
+comment7.params=
+comment7.target=void\ updateLevelAndCoins()
+comment7.text=\r\n\ Update\ the\ statbars\ current\ world\ level\ and\ coins\ everytime\ it\ increments.\ \r\n\ Draws\ directly\ on\ the\ stat\ bar,\ resets\ image\ everytime\ the\ method\ is\ called.\ \r\n
+numComments=8

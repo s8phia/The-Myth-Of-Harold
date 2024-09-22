@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Textbox
+comment0.text=\r\n\ A\ class\ to\ add\ an\ image\ actor\ and\ interact\ with\ it\r\n\ \r\n\ @author\ Jessica\ Biro\ \r\n\ @version\ January\ 2024\r\n
+comment1.params=img
+comment1.target=Textbox(greenfoot.GreenfootImage)
+numComments=2

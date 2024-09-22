@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ Helps\ with\ pathfinding\ class.\ \r\n\ \r\n\ @author\ Jessica\ Biro\ \r\n\ @version\ January\ 2024\r\n
+comment1.params=id\ dist\ prev\ x\ y
+comment1.target=Node(int,\ int,\ Node,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Node\r\n\ @pararm\ id\ \ \ Unique\ ID\ to\ compare\ nodes.\ \r\n\ @param\ dist\ \ The\ current\ distance\ from\ the\ start\ to\ this\ instance\ of\ node.\ \r\n\ @param\ prev\ \ The\ previous\ node\ in\ the\ path.\ \r\n\ @param\ x\ \ \ \ \ The\ x\ coordinate\ in\ the\ map\r\n\ @param\ y\ \ \ \ \ The\ y\ coordinate\ in\ the\ map\ \r\n
+comment2.params=n\ w
+comment2.target=void\ addEdge(Node,\ int)
+comment2.text=\r\n\ Building\ and\ edge\ between\ current\ node\ and\ a\ given\ node.\ \r\n\ \r\n\ @param\ n\ \ \ \ \ The\ node\ that\ the\ edge\ is\ being\ built\ between\ \r\n\ @param\ w\ \ \ \ \ The\ cost\ to\ travel\ the\ edge\r\n
+comment3.params=
+comment3.target=java.util.List\ getEdges()
+comment3.text=\r\n\ Returns\ a\ list\ of\ all\ the\ edges\ from\ the\ node.\ \r\n\ \r\n\ @return\ List<Edge>\ A\ list\ of\ all\ the\ edges\ from\ the\ current\ node.\ \r\n
+numComments=4

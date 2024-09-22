@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Staff
+comment0.text=\r\n\ Staff\ class\ represents\ a\ specific\ type\ of\ weapon\ in\ the\ game\ -\ a\ magic\ staff.\r\n\ It\ extends\ the\ Weapon\ class\ and\ includes\ additional\ features\ such\ as\ attack\ functionality\ using\ energy\ balls.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=
+comment1.target=Staff()
+comment1.text=\r\n\ Constructor\ for\ Staff\ class.\r\n\ Initializes\ the\ sword\ image,\ sets\ its\ cost,\ and\ creates\ a\ sound\ effect\ for\ the\ attack.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Animates\ the\ staff\ and\ attacks\ the\ player.\ \r\n
+comment3.params=
+comment3.target=void\ checkForAttack()
+comment3.text=\r\n\ Checks\ for\ the\ staff's\ attack.\ \r\n
+comment4.params=
+comment4.target=void\ performSwingAnimation()
+comment5.params=
+comment5.target=void\ attack()
+comment6.params=
+comment6.target=int\ getType()
+comment6.text=\r\n\ Get\ the\ type\ of\ the\ weapon.\r\n\ \r\n\ @return\ The\ type\ of\ the\ weapon\ (STAFF).\r\n
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WeaponShop
+comment0.text=\r\n\ WeaponShop\ class\ represents\ a\ shop\ where\ the\ player\ can\ purchase\ weapons.\r\n\ It\ extends\ the\ World\ class\ and\ includes\ functionality\ for\ displaying\ weapons,\ shop\ icons,\ and\ buy\ buttons.\r\n\ Players\ can\ purchase\ weapons\ if\ they\ have\ enough\ coins\ and\ can\ exit\ the\ shop.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=player\ villageConversation
+comment1.target=WeaponShop(Player,\ VillageConversation)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WeaponShop.\r\n\ Initializes\ the\ background,\ player,\ and\ conversation\ objects.\r\n\ Displays\ weapons,\ shop\ icons,\ buy\ buttons,\ and\ an\ exit\ button.\r\n\ \r\n\ @param\ player\ The\ player\ object\ associated\ with\ the\ shop.\r\n\ @param\ villageConversation\ The\ conversation\ object\ for\ the\ village.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ buy()
+comment4.params=weapon
+comment4.target=void\ purchaseWeapon(Weapon)
+comment4.text=\r\n\ Handles\ the\ purchase\ of\ a\ weapon\ by\ the\ player.\r\n\ Checks\ if\ the\ player\ has\ enough\ coins\ to\ make\ the\ purchase.\r\n\ If\ the\ purchase\ is\ successful,\ updates\ the\ player's\ weapon\ and\ displays\ a\ success\ message.\r\n\ If\ the\ player\ doesn't\ have\ enough\ coins,\ displays\ a\ message\ indicating\ insufficient\ funds.\r\n\ \r\n\ @param\ weapon\ The\ weapon\ object\ to\ be\ purchased.\r\n
+comment5.params=
+comment5.target=void\ exit()
+numComments=6

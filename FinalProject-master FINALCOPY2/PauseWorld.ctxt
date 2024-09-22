@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PauseWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PauseWorld\ here.\r\n\ \r\n\ @author\ Jessica\ Biro\ \r\n\ @version\ January\ 2024\r\n
+comment1.params=w\ p\ died
+comment1.target=PauseWorld(greenfoot.World,\ Player,\ boolean)
+comment1.text=\r\n\ Pauseworld\ to\ allow\ the\ player\ to\ get\ help,\ save\ the\ game,\ exit\ or\ if\ the\ player\r\n\ died\ to\ respawn.\r\n\ @param\ w\ \ \ \ \ The\ dungeon\ world\r\n\ @param\ p\ \ \ \ \ The\ player\r\n\ @param\ died\ \ Whether\ or\ not\ the\ player\ died\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addButtonsToWorld()
+comment4.params=
+comment4.target=void\ initButtons()
+numComments=5

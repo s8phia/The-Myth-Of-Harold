@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Button\ here.\r\n\ \r\n\ @author\ Hilary\ Ho,\ Jessica\ Biro\r\n\ @version\ January\ 2024\r\n
+comment1.params=type
+comment1.target=Button(int)
+comment2.params=type\ isMenuButton
+comment2.target=Button(int,\ boolean)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Check\ if\ the\ mouse\ if\ hovering\ the\ button,\ if\ the\ button\ is\ clicked,\ play\ the\ sound.\ \r\n
+comment4.params=
+comment4.target=void\ initSounds()
+comment4.text=\r\n\ Initialize\ all\ the\ sounds.\ \r\n
+comment5.params=
+comment5.target=void\ buttonHover()
+comment6.params=
+comment6.target=void\ sounds()
+numComments=7

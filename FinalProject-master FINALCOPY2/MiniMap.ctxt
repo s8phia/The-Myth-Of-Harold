@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MiniMap
+comment0.text=\r\n\ An\ image\ of\ a\ miniature\ map\ of\ the\ currently\ generated\ larger\ map.\ To\ help\ the\ player\ guide\ themselves\ throughout\ the\ world.\ \r\n\ \r\n\ @author\ Jessica\ Biro\r\n\ @version\ January\ 2024\r\n
+comment1.params=map\ p
+comment1.target=MiniMap(int[][],\ Player)
+comment1.text=\r\n\ Creates\ an\ instance\ of\ a\ mini\ map\ that\ shows\ the\ entire\ world\ map\ and\ the\ players\ current\ coordinates.\ \r\n\ \r\n\ @param\ map\ \ \ The\ map\ that\ the\ mini\ map\ is\ based\ off\ of.\ \r\n\ @param\ p\ \ \ \ \ The\ player\ from\ the\ world.\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ updates\ the\ player's\ location\ and\ the\ map\ image.\ \r\n
+comment3.params=map
+comment3.target=void\ displayMiniMap(int[][])
+comment3.text=\r\n\ Creates\ the\ mini\ map\ image\ by\ looping\ through\ the\ larger\ map\ and\ drawing\ it\ cell\ by\ cell.\ \r\n\ @param\ map\ \ \ The\ map\ of\ which\ the\ mini\ map\ is\ based\ off\ of.\ \r\n
+comment4.params=
+comment4.target=void\ updatePlayer()
+comment4.text=\r\n\ Updates\ the\ players\ current\ location\ on\ the\ mini\ map\ using\ the\ players\ current\ location.\ \r\n
+comment5.params=
+comment5.target=void\ updateMiniMap()
+comment5.text=\r\n\ Updates\ the\ mini\ maps\ image.\ \r\n
+comment6.params=
+comment6.target=void\ reset()
+comment6.text=\r\n\ Resets\ the\ map\ to\ the\ originally\ made\ minimap\ so\ that\ the\ players\ markings\ don't\ remain\ when\ the\ map\ isn't\ displayed.\ \r\n
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Spear
+comment0.text=\r\n\ Spear\ class\ represents\ a\ specific\ type\ of\ weapon\ in\ the\ game\ -\ a\ spear.\r\n\ It\ extends\ the\ Weapon\ class\ and\ includes\ additional\ features\ such\ as\ swing\ animation\ and\ attack\ functionality.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=
+comment1.target=Spear()
+comment1.text=\r\n\ Constructor\ for\ Spear\ class.\r\n\ Initializes\ the\ sword\ image,\ sets\ its\ cost,\ and\ creates\ a\ sound\ effect\ for\ the\ attack.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Animates\ the\ spear\ and\ attacks\ the\ player.\ \r\n
+comment3.params=
+comment3.target=void\ performSwingAnimation()
+comment4.params=
+comment4.target=void\ attack()
+comment5.params=
+comment5.target=int\ getType()
+comment5.text=\r\n\ Get\ the\ type\ of\ the\ weapon.\r\n\ \r\n\ @return\ The\ type\ of\ the\ weapon\ (SPEAR).\r\n
+numComments=6

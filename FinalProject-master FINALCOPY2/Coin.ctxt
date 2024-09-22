@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Coin
+comment0.text=\r\n\ Coin\ class\ represents\ a\ collectible\ coin\ in\ the\ game.\r\n\ It\ extends\ the\ Asset\ class\ and\ includes\ functionality\ for\ animation\ and\ interaction\ with\ the\ player.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=
+comment1.target=Coin()
+comment1.text=\r\n\ Creates\ a\ new\ instance\ of\ a\ coin\ that\ can\ be\ picked\ up\ by\ the\ player.\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Animate\ the\ coin\ and\ check\ for\ player\ interaction.\ \r\n
+comment3.params=
+comment3.target=void\ animateCoin()
+comment3.text=\r\n\ Animates\ the\ coin.\ \r\n
+numComments=4

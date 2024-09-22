@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=WelcomeWorld
+comment0.text=\r\n\ \r\n\ STORYLINE\:\ <br>\r\n\ Oh\ no\!\ The\ Mayor's\ child\ has\ been\ kidnapped?\!\ Recently,\ a\ lot\ of\ children\ from\ the\ village\ has\ been\ disappearing,\ and\ locals\ suspect\ that\ an\ ancient\ frog\r\n\ Harold\ has\ been\ taking\ them\!\ No\ one\ has\ the\ guts\ to\ go\ into\ the\ dungeon\ to\ save\ the\ children\ though...excpect\ for\ YOU.\ Defeat\ the\ enemies\ in\ the\ dungeon\r\n\ to\ discover\ the\ myths\ of\ Harold\!\!\r\n\ <br>\r\n\ \r\n\ FEATURES\:\ <br>\r\n\ -\ Press\ "m"\ --->\ show\ map\r\n\ -\ automatic\ and\ randomized\ generation\ of\ world\ maps\r\n\ -\ different\ enemy\ looks\ and\ minibosses\ in\ different\ world\ levels\r\n\ -\ potion\ and\ weapon\ shop\r\n\ -\ Harold\ the\ frog\ (mega\ boss)\r\n\ -\ Jail\ cells\ that\ hold\ the\ children\r\n\ -\ different\ weapons\r\n\ <br>\r\n\ \r\n\ GRAPHIC\ CREDITS\:\ <br>\r\n\ -\ Majority\ of\ visuals\ hand-drawn\ by\ Hilary\ <br>\r\n\ -\ Village\ tileset,\ final\ boss,\ and\ attack\ objects\ taken\ from\ NinjaAdventure\ pack\ by\ pixel-boy\ on\ Itch.io\:\ https\://pixel-boy.itch.io/ninja-adventure-asset-pack\ <br>\r\n\ -\ Dungeon\ world\ tileset\ and\ enemies\ from\ 0x72\ on\ itch.io\:\ https\://0x72.itch.io/dungeontileset-ii\ <br>\r\n\ \r\n\ SOUND\ CREDITS\:\ <br>\r\n\ -\ all\ taken\ from\ NinjaAdventure\ pack\ by\ pixel-boy\ on\ Itch.io\:\ https\://pixel-boy.itch.io/ninja-adventure-asset-pack\ <br>\r\n\ \r\n\ \r\n\ KNOWN\ BUGS\:\ <br>\r\n\ -\ Might\ spawn\ inside\ of\ a\ wall\ \r\n\ -\r\n\ <br>\r\n\ \r\n\ /\r\n\ \r\n/\ *\ *\ <br>\ \r\n\ \r\n\ \r\n\ @author\ Hilary\ Ho\ and\ Jessica\ Biro\r\n\ @version\ January\ 2024\r\n
+comment1.params=
+comment1.target=WelcomeWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WelcomeWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addButtons()
+comment3.text=\r\n\ Adds\ the\ play\ and\ load\ buttons\ to\ the\ world.\ \r\n
+comment4.params=
+comment4.target=void\ addSavedGames()
+comment4.text=\r\n\ Adds\ the\ saved\ games\ images\ \r\n
+comment5.params=
+comment5.target=void\ addStats()
+comment5.text=\r\n\ Loads\ all\ the\ statistics\ from\ the\ saved\ files\ to\ show\ which\ game\ the\ user\ wants\ to\ load.\ \r\n
+comment6.params=
+comment6.target=void\ started()
+comment6.text=\r\n\ Starts\ and\ loops\ background\ music\ \r\n
+comment7.params=
+comment7.target=void\ stopped()
+comment7.text=\r\n\ Stops\ music\ after\ simulation\ has\ paused\ \r\n
+numComments=8

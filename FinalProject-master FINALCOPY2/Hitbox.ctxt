@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Hitbox
+comment0.text=\r\n\ Hitboxes\ to\ determine\ when\ a\ player\ had\ arrived\ at\ a\ certain\ location.\ \r\n\ \r\n\ @author\ Hilary\ Ho\r\n\ @version\ January\ 2024\r\n
+comment1.params=hbNum
+comment1.target=Hitbox(int)
+comment1.text=\r\n\ Creates\ a\ new\ instance\ of\ a\ hitbox.\ \r\n\ @param\ hbNum\ \ \ \ \ The\ ID\ number\ of\ the\ hitbox.\ \r\n
+comment2.params=
+comment2.target=int\ getHbNum()
+comment2.text=\r\n\ Getter\ method\ that\ returns\ the\ ID\ number\ of\ the\ current\ hitbox.\ \r\n\ @return\ int\ \ \ \ \ \ The\ ID\ of\ the\ hitbox.\ \r\n
+numComments=3

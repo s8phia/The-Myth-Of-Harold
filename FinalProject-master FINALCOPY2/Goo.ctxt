@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Goo
+comment0.text=\r\n\ Goo\ class\ represents\ a\ sticky\ substance\ left\ behind\ by\ the\ Slime\ enemy.\r\n\ It\ extends\ the\ Attack\ class\ and\ includes\ a\ specific\ image\ for\ the\ goo.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=
+comment1.target=Goo()
+comment1.text=\r\n\ Creates\ a\ new\ instance\ of\ "goo"\ that\ is\ placed\ on\ top\ of\ cells.\ \r\n
+numComments=2

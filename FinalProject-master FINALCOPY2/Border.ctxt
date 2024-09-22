@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Border
+comment0.text=\r\n\ Borders\ around\ the\ world\ where\ the\ player\ cannot\ move.\ \r\n\ \r\n\ @author\ Jessica\ Biro\r\n\ @version\ June\ 2023\r\n
+comment1.params=VillageWorld
+comment1.target=Border(int[][])
+comment1.text=\r\n\ Takes\ in\ a\ 2D\ array\ of\ coordinates\ and\ makes\ them\ into\ borders\ where\ the\ player\ cannot\ move.\ \r\n\ @param\ VillageWorld\ \ The\ 2D\ array\ of\ the\ world\ used\ to\ make\ the\ borders.\ \r\n\ \r\n
+numComments=2

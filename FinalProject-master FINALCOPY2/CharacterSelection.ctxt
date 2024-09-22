@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CharacterSelection
+comment0.text=\r\n\ Brings\ user\ to\ choose\ their\ hero\ for\ the\ gameplay\ \r\n\ \r\n\ @author\ Hilary\ Ho,\ Jessica\ Biro\r\n\ @version\ January\ 2024\r\n
+comment1.params=
+comment1.target=CharacterSelection()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CharacterSelection\r\n\ Initializes\ the\ background\ images,\ music,\ character\ selections,\ and\ storybook\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ When\ respective\ buttons\ are\ clicked,\ they\ can\ either\ select\ hero,\ or\ look\ at\ other\ hero\ options\r\n
+comment3.params=heroType
+comment3.target=void\ showHero(int)
+comment4.params=
+comment4.target=void\ hideHero()
+comment5.params=heroType
+comment5.target=void\ showHeroStats(int)
+comment6.params=
+comment6.target=void\ hideStats()
+comment7.params=
+comment7.target=void\ started()
+comment7.text=\r\n\ Starts\ and\ loops\ background\ music\ \r\n
+comment8.params=
+comment8.target=void\ stopped()
+comment8.text=\r\n\ Stops\ music\ after\ simulation\ has\ paused\ \r\n
+numComments=9

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Weapon
+comment0.text=\r\n\ The\ base\ class\ for\ different\ types\ of\ weapons\ in\ the\ game.\r\n\ Weapons\ can\ be\ swung\ by\ the\ player,\ and\ each\ weapon\ has\ a\ specific\ type\ and\ cost.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkForSwing()
+comment2.text=\r\n\ Checks\ if\ the\ weapon\ is\ currently\ swinging.\ \r\n
+comment3.params=
+comment3.target=int\ getType()
+comment4.params=
+comment4.target=int\ getCost()
+comment4.text=\r\n\ Get\ the\ cost\ of\ the\ weapon.\r\n\ \r\n\ @return\ The\ cost\ of\ the\ weapon.\r\n
+numComments=5

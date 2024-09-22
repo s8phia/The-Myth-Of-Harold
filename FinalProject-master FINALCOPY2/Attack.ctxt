@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Attack
+comment0.text=\r\n\ Class\ representing\ the\ Attack\ objects\ in\ the\ game.\r\n\ This\ class\ can\ be\ extended\ to\ create\ specific\ types\ of\ attacks.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+numComments=1

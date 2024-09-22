@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Creeper
+comment0.text=\r\n\ Class\ representing\ the\ Creeper\ enemy\ in\ the\ game.\r\n\ Creeper\ enemies\ can\ throw\ fireballs\ at\ the\ player.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=x\ y\ worldLevel
+comment1.target=Creeper(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ Creeper\ class.\r\n\ \r\n\ @param\ x\ \ \ \ \ \ \ \ \ \ The\ X-coordinate\ of\ the\ room\ in\ which\ the\ creeper\ is\ located.\r\n\ @param\ y\ \ \ \ \ \ \ \ \ \ The\ Y-coordinate\ of\ the\ room\ in\ which\ the\ creeper\ is\ located.\r\n\ @param\ worldLevel\ The\ current\ level\ of\ the\ world.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Animate\ and\ throw\ fireballs.\ \r\n
+comment3.params=
+comment3.target=void\ throwFireball()
+comment3.text=\r\n\ Throws\ fireballs\ angled\ towards\ the\ players\ x\ and\ y.\ \r\n
+comment4.params=worldLevel
+comment4.target=void\ setAnimationImages(int)
+comment4.text=\r\n\ Sets\ the\ animation\ images\ for\ the\ Creeper\ based\ on\ the\ world\ level.\r\n\ \r\n\ @param\ worldLevel\ The\ current\ level\ of\ the\ world.\r\n
+comment5.params=
+comment5.target=void\ setEnemyImage()
+numComments=6

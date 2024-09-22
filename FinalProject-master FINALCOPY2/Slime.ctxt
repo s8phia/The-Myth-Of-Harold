@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Slime
+comment0.text=\r\n\ Class\ representing\ the\ Slime\ enemy\ in\ the\ game.\r\n\ Slime\ enemies\ can\ leave\ goo\ on\ the\ ground\ as\ they\ move.\r\n\ Goo\ has\ a\ certain\ duration\ before\ it\ disappears.\r\n\ Slime\ enemies\ attack\ the\ player\ when\ in\ close\ proximity.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=x\ y\ worldLevel
+comment1.target=Slime(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ Slime\ class.\r\n\ \r\n\ @param\ x\ The\ X-coordinate\ of\ the\ room\ in\ which\ the\ slime\ is\ located.\r\n\ @param\ y\ The\ Y-coordinate\ of\ the\ room\ in\ which\ the\ slime\ is\ located.\r\n\ @param\ worldLevel\ The\ current\ level\ of\ the\ world.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ leave\ clue\ and\ only\ attack\ the\ player\ every\ 50\ acts\ if\ intersecting.\r\n\ Once\ dead,\ remove\ all\ the\ good\ left\ on\ the\ ground.\ \r\n
+comment3.params=worldLevel
+comment3.target=void\ setAnimationImages(int)
+comment3.text=\r\n\ Sets\ the\ animation\ images\ for\ the\ Slime\ based\ on\ the\ world\ level.\r\n\ \r\n\ @param\ worldLevel\ The\ current\ level\ of\ the\ world.\r\n
+comment4.params=
+comment4.target=void\ setEnemyImage()
+comment5.params=
+comment5.target=void\ leaveGoo()
+comment6.params=
+comment6.target=void\ removeGooOnDeath()
+comment7.params=
+comment7.target=void\ attackPlayer()
+numComments=8

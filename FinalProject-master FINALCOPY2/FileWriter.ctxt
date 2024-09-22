@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FileWriter
+comment0.text=\r\n\ Saves\ and\ loads\ given\ files\ of\ the\ world.\r\n\ \r\n\ @author\ Jessica\ Biro\r\n\ @version\ January\ 2023\r\n
+comment1.params=filePath
+comment1.target=void\ clearFile(java.lang.String)
+comment1.text=\r\n\ Clears\ the\ given\ file.\r\n\ @param\ filePath\ \ The\ file\ that\ you\ want\ to\ clear.\ \r\n
+comment2.params=filePath\ p
+comment2.target=void\ saveWorldToFile(java.lang.String,\ Player)
+comment2.text=\r\n\ Saves\ the\ world\ to\ the\ given\ file.\r\n\ @param\ filePath\ \ The\ file\ that\ you\ want\ to\ save\ to\r\n\ @param\ p\ \ \ \ \ \ \ \ \ The\ player\ in\ the\ world\ that's\ being\ saved\ \r\n
+comment3.params=filePath
+comment3.target=void\ loadWorldFromFile(java.lang.String)
+comment3.text=\r\n\ Loads\ the\ world\ from\ given\ file\ and\ sets\ the\ static\ variables\ in\ the\ world\ \r\n\ @param\ filePath\ \ The\ file\ that\ you\ want\ to\ load.\ \r\n
+comment4.params=filePath
+comment4.target=int[]\ loadWorldStats(java.lang.String)
+comment4.text=\r\n\ Load\ only\ the\ hero\ type,\ weapon\ type,\ number\ of\ coins\ and\ world\ level\ from\ given\ file.\ Used\ to\ display\ world\ stats\ when\ loading.\ \r\n\ Returns\ the\ follow\ stats\:\ <br>\r\n\ \ \ \ \ \ 0\:\ Hero\ type\ <br>\r\n\ \ \ \ \ \ 1\:\ Weapon\ type\ <br>\r\n\ \ \ \ \ \ 2\:\ Coin\ amount\ <br>\r\n\ \ \ \ \ \ 3\:\ World\ Level\ <br>\r\n\ @param\ filePath\ \ The\ world\ file\ of\ which\ you\ want\ to\ load\ the\ stats.\ \r\n\ @return\ int[]\ \ \ \ Returns\ in\ array\ of\ all\ the\ stats\r\n
+numComments=5

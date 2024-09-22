@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Edge
+comment0.text=\r\n\ Helps\ with\ the\ pathfinding\ class.\ \r\n\ \r\n\ @author\ Jessica\ Biro\r\n\ @version\ January\ 2024\r\n
+comment1.params=n1\ n2\ w
+comment1.target=Edge(Node,\ Node,\ int)
+comment1.text=\r\n\ Constructor\ for\ an\ edge\r\n\ @param\ n1\ \ \ \ The\ starting\ node\r\n\ @param\ n2\ \ \ \ The\ ending\ node\r\n\ @param\ w\ \ \ \ \ The\ cost\ to\ travel\ the\ edge\ \r\n
+numComments=2

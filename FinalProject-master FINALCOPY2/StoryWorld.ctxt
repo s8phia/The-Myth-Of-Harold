@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=StoryWorld
+comment0.text=\r\n\ Cutscene\ of\ the\ story.\ \r\n\ \r\n\ @author\ Hilary\ Ho\r\n\ @version\ January\ 2024\r\n
+comment1.params=type
+comment1.target=StoryWorld(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StoryWorld.\r\n\ @param\ type\ \ The\ player\ type.\ \r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Show\ animation,\ if\ user\ pressues\ skip\ or\ the\ animation\ is\ finished,\ change\ the\ world.\ \r\n
+comment3.params=
+comment3.target=void\ animate()
+comment4.params=
+comment4.target=void\ started()
+comment4.text=\r\n\ Starts\ and\ loops\ background\ music\ \r\n
+comment5.params=
+comment5.target=void\ stopped()
+comment5.text=\r\n\ Stops\ music\ after\ simulation\ has\ paused\ \r\n
+numComments=6

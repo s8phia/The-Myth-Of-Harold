@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Jail
+comment0.text=\r\n\ Displays\ the\ jail\ cell\ and\ trapped\ kids\ in\ game\ world\ \r\n\ \r\n\ @author\ Hilary\ Ho,\ Jessica\ Biro\r\n\ @version\ January\ 2024\r\n
+comment1.params=worldLevel
+comment1.target=Jail(int)
+comment1.text=\r\n\ Constructor\ for\ all\ jail\ cell\ images\ and\ text\ based\ on\ game\ level.\r\n\ \r\n\ @param\ worldLevel\ The\ world\ level\r\n
+comment2.params=mayorsDaughter
+comment2.target=Jail(boolean)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Has\ a\ different\ child\ in\ jail\ based\ on\ the\ level,\ on\ the\ final\ boss\ the\ mayors\ daughter\ awaits\ and\ once\ the\ final\ boss\ is\ defeated\ the\ game\ ends.\ \r\n
+comment4.params=
+comment4.target=boolean\ levelOne()
+comment5.params=
+comment5.target=boolean\ levelTwo()
+comment6.params=
+comment6.target=boolean\ levelThree()
+comment7.params=
+comment7.target=boolean\ levelFour()
+numComments=8

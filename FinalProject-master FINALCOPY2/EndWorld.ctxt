@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EndWorld
+comment0.text=\r\n\ The\ EndScreen\ is\ shown\ when\ the\ final\ boss\ is\ defeated\r\n\ \r\n\ @author\ Hilary\ Ho\r\n\ @version\ January\ 2024\r\n
+comment1.params=
+comment1.target=EndWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ EndWorld.\r\n\ Displays\ the\ end\ screen\ and\ a\ button\ to\ bring\ player\ to\ the\ WelcomeWorld\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ If\ button\ is\ clicked,\ user\ is\ brought\ back\ to\ the\ WelcomeWorld\r\n
+numComments=3

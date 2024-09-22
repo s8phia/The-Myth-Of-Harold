@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RedEnergyball
+comment1.params=
+comment1.target=RedEnergyball()
+comment2.params=
+comment2.target=void\ animateEnergyball()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Launches\ in\ the\ direction\ of\ the\ mouse\ click,\ and\ checks\ for\ collisions\r\n\ with\ the\ boss\ and\ enemy\ and\ checks\ for\ out\ of\ bounds.\ \r\n
+comment4.params=
+comment4.target=void\ checkCollisionWithEnemy()
+comment5.params=
+comment5.target=void\ checkCollisionWithBoss()
+comment6.params=
+comment6.target=void\ checkOutOfBounds()
+numComments=7

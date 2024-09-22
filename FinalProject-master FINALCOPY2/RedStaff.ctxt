@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RedStaff
+comment0.text=\r\n\ RedStaff\ class\ represents\ a\ specific\ type\ of\ weapon\ in\ the\ game\ -\ a\ red\ staff.\r\n\ It\ extends\ the\ Weapon\ class\ and\ includes\ additional\ features\ such\ as\ swing\ animation\ and\ attack\ functionality.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=
+comment1.target=RedStaff()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Animates\ the\ sword\ and\ attacks\ the\ player.\ \r\n
+comment3.params=
+comment3.target=void\ checkForAttack()
+comment3.text=\r\n\ Checks\ if\ the\ staff\ is\ attacking.\ \r\n
+comment4.params=
+comment4.target=void\ performSwingAnimation()
+comment5.params=
+comment5.target=void\ attack()
+comment6.params=
+comment6.target=int\ getType()
+comment6.text=\r\n\ Get\ the\ type\ of\ the\ weapon.\r\n\ \r\n\ @return\ The\ type\ of\ the\ weapon\ (REDSTAFF).\r\n
+numComments=7

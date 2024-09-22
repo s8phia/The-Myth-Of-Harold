@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PotionShop
+comment0.text=\r\n\ Represents\ the\ Potion\ Shop\ in\ the\ game\ world.\r\n\ Players\ can\ purchase\ health\ potions\ from\ this\ shop\ to\ restore\ their\ health.\r\n\ Provides\ different\ options\ with\ varying\ amounts\ of\ health\ restoration.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=player\ villageConversation
+comment1.target=PotionShop(Player,\ VillageConversation)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PotionShop.\r\n\ Initializes\ the\ background,\ player,\ and\ conversation\ objects.\r\n\ Displays\ potions,\ shop\ icons,\ buy\ buttons,\ and\ an\ exit\ button.\r\n\ \r\n\ @param\ player\ The\ player\ object\ associated\ with\ the\ shop.\r\n\ @param\ villageConversation\ The\ conversation\ object\ for\ the\ village.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ buy()
+comment4.params=
+comment4.target=void\ exit()
+numComments=5

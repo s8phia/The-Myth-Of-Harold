@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MiniBoss
+comment0.text=\r\n\ Class\ representing\ the\ MiniBoss\ enemy\ in\ the\ game.\r\n\ MiniBoss\ enemies\ have\ different\ attacks\ based\ on\ the\ world\ level.\r\n\ They\ can\ throw\ plantballs,\ rockballs,\ or\ bite\ the\ player.\r\n\ MiniBoss\ enemies\ have\ a\ larger\ size\ and\ more\ hit\ points\ compared\ to\ regular\ enemies.\r\n\ \r\n\ @author\ Sophia\ Wang\r\n\ @version\ January\ 2024\r\n
+comment1.params=x\ y\ worldLevel
+comment1.target=MiniBoss(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ MiniBoss\ class.\r\n\ \r\n\ @param\ x\ The\ X-coordinate\ of\ the\ room\ in\ which\ the\ mini-boss\ is\ located.\r\n\ @param\ y\ The\ Y-coordinate\ of\ the\ room\ in\ which\ the\ mini-boss\ is\ located.\r\n\ @param\ worldLevel\ The\ current\ level\ of\ the\ world.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ throwPlantball()
+comment4.params=
+comment4.target=void\ throwRockball()
+comment5.params=
+comment5.target=void\ bite()
+comment6.params=worldLevel
+comment6.target=void\ setAnimationImages(int)
+comment6.text=\r\n\ Sets\ the\ animation\ images\ for\ the\ MiniBoss\ based\ on\ the\ world\ level.\r\n\ \r\n\ @param\ worldLevel\ The\ current\ level\ of\ the\ world.\r\n
+comment7.params=
+comment7.target=void\ setEnemyImage()
+comment8.params=
+comment8.target=void\ attack()
+comment8.text=\r\n\ Attack\ the\ player\ based\ on\ which\ mini\ boss\ instance.\ \r\n
+comment9.params=
+comment9.target=boolean\ isDead()
+comment9.text=\r\n\ Checks\ if\ the\ MiniBoss\ is\ dead\ (hp\ <\=\ 0).\r\n\ \r\n\ @return\ True\ if\ the\ MiniBoss\ is\ dead,\ false\ otherwise.\r\n
+numComments=10
